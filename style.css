@@ -1,3 +1,10 @@
-body{
+body {
     text-align: center;
+    background-image: url(descarga.jpg);
+    background-size: contain;
+    color: white;
+}
+#fotito{
+    width: 500px;
+    height: 600px;
 }
